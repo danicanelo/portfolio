@@ -11939,41 +11939,41 @@ section.resume-section {
 }
 
 .bg-dani {
-  background-image: url("../assets/img/dani8.jpg");
+  background-image: url("../img/dani8.jpg");
   background-position: center;
   background-size: 100% auto;
 }
 
 .bg-experience {
-  background-image: url("../assets/img/experience.jpg");
+  background-image: url("../img/experience.jpg");
   background-position: center;
   background-size: 100% auto;
   background-attachment: fixed;
 }
 
 .bg-education {
-  background-image: url("../assets/img/education.jpg");
+  background-image: url("../img/education.jpg");
   background-position: center;
   background-size: 100% auto;
   background-attachment: fixed;
 }
 
 .bg-skills {
-  background-image: url("../assets/img/skills.jpg");
+  background-image: url("../img/skills.jpg");
   background-position: center;
   background-size: 100% auto;
   background-attachment: fixed;
 }
 
 .bg-interests {
-  background-image: url("../assets/img/interests.jpg");
+  background-image: url("../img/interests.jpg");
   background-position: center bottom;
   background-size: 100% auto;
   background-attachment: fixed;
 }
 
 .bg-awards {
-  background-image: url("../assets/img/awards.jpg");
+  background-image: url("../img/awards.jpg");
   background-position: center;
   background-size: 100% auto;
   background-attachment: fixed;
