@@ -11985,18 +11985,21 @@ section.resume-section {
   .bg-experience,
   .bg-education,
   .bg-skills,
-  /* .bg-interests,
+  .bg-interests,
   .bg-awards {
     background-size: cover;
-  } */
+  }
 }
 
-/* .patata {
-  height: 100vh;
-  scroll-snap-type: y mandatory;
-  overflow: scroll;
+body::-webkit-scrollbar-track {
+  background-color: #251820;
 }
 
-.patata>div {
-  scroll-snap-align: start;
-} */
+body::-webkit-scrollbar {
+  width: 0.8em;
+}
+
+body::-webkit-scrollbar-thumb {
+  border-radius: 8px;
+  background-color: grey;
+}
