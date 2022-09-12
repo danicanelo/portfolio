@@ -1,4 +1,3 @@
 # portfolio-bootstrap
-Portfolio personal realizado sobre una plantilla de Bootstrap
-
+Portfolio personal 
 https://danicanelo.github.io/portfolio-bootstrap/
