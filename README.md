@@ -1,3 +1,2 @@
-# portfolio-bootstrap
-Portfolio personal 
+# Portfolio
 https://danicanelo.github.io/portfolio
